@@ -1,4 +1,9 @@
 # Machine Learning Projects
+Professor: Santi Seguí Mesquida and Josep Fortiana
+
+
+https://github.com/ssegui/ml_ub 
+
 
 ## Session 7 - Boosting Classifier from scratch
 
